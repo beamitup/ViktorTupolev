@@ -1,2 +1,2 @@
 # ViktorTupolev
-Victor TUPOLEV - Great Technology Production Parameters
+Victor Tupolev - Great Technology Production Parameters
